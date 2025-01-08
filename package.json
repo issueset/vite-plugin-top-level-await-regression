@@ -7,7 +7,7 @@
     "build": "vite build"
   },
   "devDependencies": {
-    "vite": "6.0.6",
+    "vite": "6.0.7",
     "vite-plugin-top-level-await": "^1.4.4"
   }
 }
